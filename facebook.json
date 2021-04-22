@@ -17,14 +17,6 @@
       "color": "#303f9f"
     },
     {
-      "mediaType": "video",
-      "media": "http://techslides.com/demos/sample-videos/small.mp4",
-      "duration": "4.0",
-      "caption": "robo robo. robo me.",
-      "when": "2 hours ago",
-      "color": ""
-    },
-    {
       "mediaType": "image",
       "media": "https://media.giphy.com/media/XcA8krYsrEAYXKf4UQ/giphy.gif",
       "duration": "5.0",
