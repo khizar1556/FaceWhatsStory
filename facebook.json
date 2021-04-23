@@ -10,7 +10,7 @@
     },
     {
         "mediaType": "video",
-        "media": "https://vpn.goit.pk/video.mp4",
+        "media": "https://vpn.goit.pk/abcd.mp4",
         "duration": "5.0",
         "caption":"bunny",
         "when": "14 hours ago",
